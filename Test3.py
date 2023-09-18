@@ -1,0 +1,26 @@
+{"_id":{"$oid":"64e760b39da7ee758c601a26"},
+ "name":"Céréale grain d'or nature",
+ "brand":"NESTLÉ",
+ "imageSrc":"https://courses.monoprix.tn/saadi/161767-home_default/harrissa.jpg",
+ "description":"Le paquet de 600g",
+ "size" : "600g",
+ "category" : "",
+ "regular_price":"",
+ "product_price":"7,190 DT",
+ "product_url":"https://courses.carrefour.tn/saadi/frais/20039.html",
+ "promo":"",
+ "shop_name":"Carrefour"}
+
+
+{"_id":{"$oid":"64e760b39da7ee758c601a26"},
+ "name":"Céréales blé",
+ "brand":"GRAIN D'OR",
+ "imageSrc":"https://courses.monoprix.tn/saadi/161767-home_default/harrissa.jpg",
+ "description":"600GR - nature",
+ "size" : "600GR",
+ "category" : "",
+ "regular_price":"8,090 DT",
+ "product_price":"5,690 DT",
+ "product_url":"https://courses.carrefour.tn/saadi/frais/20039.html",
+ "promo":"Promotion",
+ "shop_name":"Carrefour"}
